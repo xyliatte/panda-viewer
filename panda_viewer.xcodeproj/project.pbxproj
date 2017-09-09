@@ -54,6 +54,7 @@
 		89EC55F21F63A3DF00D2F9D6 /* panda_viewer */ = {
 			isa = PBXGroup;
 			children = (
+				89EC56051F63A87F00D2F9D6 /* src */,
 				89EC55F31F63A3DF00D2F9D6 /* AppDelegate.swift */,
 				89EC55F51F63A3DF00D2F9D6 /* ViewController.swift */,
 				89EC55F71F63A3DF00D2F9D6 /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				89EC55FF1F63A3DF00D2F9D6 /* Info.plist */,
 			);
 			path = panda_viewer;
+			sourceTree = "<group>";
+		};
+		89EC56051F63A87F00D2F9D6 /* src */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = src;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
